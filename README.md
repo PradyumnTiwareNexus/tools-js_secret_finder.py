@@ -59,7 +59,7 @@ downloads/
 
 
 <p align="center">
-  <img src="./DEMO Installation .png" width="55%" />
+  <img src="./DEMO Installation .png" width="90%" />
 </p>
 
 # 🟣 ReconNexus JS Secret Scanner
