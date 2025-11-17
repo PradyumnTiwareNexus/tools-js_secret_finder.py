@@ -1,4 +1,4 @@
-# 🔍 OSINT Tools Suite
+# 🔍 Tools Suite Secret Finder
 
 ### JavaScript Secret Finder • HTTP Header Scanner • Wayback URL Miner
 
