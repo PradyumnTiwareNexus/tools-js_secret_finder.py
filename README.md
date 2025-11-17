@@ -5,7 +5,7 @@
 *By Pradyumn Tiware Nexus*
 
 <p align="center">
-  <img src="PradyumnTiwareNexus.png" width="100%" />
+  <img src="PradyumnTiwareNexus.png" width="50%" />
 </p>
 
 <p align="center">
