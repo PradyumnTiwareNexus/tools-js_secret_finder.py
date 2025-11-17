@@ -5,7 +5,7 @@
 *By Pradyumn Tiware Nexus*
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PradyumnTiwareNexus/Advanced-Subdomain-Enumeration-Framework/main/banner.png" width="100%" />
+  <img src="PradyumnTiwareNexus.png" width="100%" />
 </p>
 
 <p align="center">
