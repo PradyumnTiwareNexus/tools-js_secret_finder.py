@@ -9,7 +9,7 @@ A powerful collection of **Bug Bounty & Reconnaissance utilities** designed to a
 This suite lives inside **`tools-js_secret_finder.py` repository** but contains **three full tools**, each focused on a different part of recon.
 
 <p align="center">
-  <img src="./PradyumnTiwareNexus.png" width="85%" />
+  <img src="./PradyumnTiwareNexus.png" width="55%" />
 </p>
 
 ---
