@@ -55,6 +55,12 @@ downloads/
 ```
 
 ---
+# 🟣 Installation Demo
+
+
+<p align="center">
+  <img src="./DEMO Installation .png" width="55%" />
+</p>
 
 # 🟣 ReconNexus JS Secret Scanner
 
