@@ -189,7 +189,3 @@ Made with dedication by **Pradyumn Tiware Nexus**
 For ethical hacking, bug bounty & recon automation.
 
 ---
-
-# ⭐ Want a Pro Banner / Logo?
-
-Just say: **“Bhai ek neon hacker banner de do ReconNexus ke liye”**— I'll generate next-level banners/gifs.
